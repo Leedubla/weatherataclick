@@ -1,0 +1,2 @@
+Hello!
+This is my weather website. Here you can view your local weather by searching it in the input fireld. Currently there is a few missing pieces and it is currently not working. I was using one of the activities as a refrence as you can see in my code but was unable to getit working. I am not sure why that is. 
